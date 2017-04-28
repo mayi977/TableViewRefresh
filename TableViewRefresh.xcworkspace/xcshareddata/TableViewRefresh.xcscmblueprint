@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E6083136C22AE344F74666C453A2144605813C19",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F63DFFD7448788960E0A85C67B3059D0FD144344" : 9223372036854775807,
+    "E6083136C22AE344F74666C453A2144605813C19" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF810C13-5342-4228-8273-A1075309FA75",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F63DFFD7448788960E0A85C67B3059D0FD144344" : "",
+    "E6083136C22AE344F74666C453A2144605813C19" : "TableViewRefresh\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TableViewRefresh",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TableViewRefresh.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mayi977\/TableViewRefresh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E6083136C22AE344F74666C453A2144605813C19"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mayi977\/MySwiftCalender.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F63DFFD7448788960E0A85C67B3059D0FD144344"
+    }
+  ]
+}
